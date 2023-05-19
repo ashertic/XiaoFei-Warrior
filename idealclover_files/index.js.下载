@@ -55,7 +55,7 @@
     }), 2 * commentTime);
   };
 
-  $('body').append("  <style id=\"style-tag\"></style>\n<span id=\"echo\"></span>\n<span id=\"heart\"><i></i></span>\n<pre id=\"style-text\"></pre>\n  <div style = 'position: fixed;left: 20px;bottom: 10px;'>\n    <a id='skipAnimation'>跳过动画</a>\n    <a style='color: #fff' href='https://tv.cctv.com/cctv14'>重新播放</a>\n    <a style='color: #fff' target=\"_blank\" href='https://tv.cctv.com/cctv14'>项目地址</a>\n    <a style='color: #fff' target=\"_blank\" href='https://tv.cctv.com/cctv14'>我的博客</a>\n  </div>");
+  $('body').append("  <style id=\"style-tag\"></style>\n<span id=\"echo\"></span>\n<span id=\"heart\"><i></i></span>\n<pre id=\"style-text\"></pre>\n  <div style = 'position: fixed;left: 20px;bottom: 10px;'>\n    <a id='skipAnimation'>跳过动画</a>\n    <a style='color: #fff' href='https://ashertic.github.io/XiaoFei-Warrior/xiaofei520.html'>重新播放</a>\n    <a style='color: #fff' target=\"_blank\" href='https://ashertic.github.io/XiaoFei-Warrior/xiaofei520.html'>项目地址</a>\n    <a style='color: #fff' target=\"_blank\" href='https://ashertic.github.io/XiaoFei-Warrior/xiaofei520.html'>我的博客</a>\n  </div>");
 
   commentTime = 60;
 
